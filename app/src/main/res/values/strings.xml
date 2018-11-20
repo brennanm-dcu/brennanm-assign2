@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SDA_2018_Assign2 Matthew Brennan</string>
+    <string name="open_camera">Implicit Intent: Open camera</string>
+    <string name="view_picture">Implicit Intent: View Picture</string>
+    <string name="call_activity">Explicit Intent: Call an Activity</string>
+    <string name="edit_button">SEND</string>
+    <string name="mailData_to">To:</string>
+    <string name="mailData_subject">Subject:</string>
+    <string name="mailData_compose">Compose:</string>
+    <string name="mailData_send">SEND</string>
+</resources>
